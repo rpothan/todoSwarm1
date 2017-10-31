@@ -22,4 +22,4 @@ volumes:
   assets:
 networks:
   spring_demo_net:
-     driver: overlay
+	driver: overlay
